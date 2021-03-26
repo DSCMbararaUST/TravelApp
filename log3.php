@@ -83,8 +83,8 @@ if(isset($_POST['login']))
 
     <div class="row">
         <div class="col-md-8">
-          <div class="card" style="background: #c05640;">
-            <img src="img/travel.svg" width="80%">
+          <div class="card" style="background:;">
+            <img src="img/back.jpg" width="100%">
           </div>
 
            <div class="card card-transparent">

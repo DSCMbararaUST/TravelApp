@@ -59,6 +59,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
       <div class="content">
         <div class="container-fluid">
           <div class="row">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d15958.368685957286!2d30.650242380920407!3d-0.6100428158530006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sug!4v1616772982630!5m2!1sen!2sug" width="1000" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
             <div id="output"></div>
             <div id="map" style="width: 100%;"></div>
 

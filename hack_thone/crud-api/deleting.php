@@ -1,0 +1,7 @@
+<?php
+require ('../headers/header.php');
+$id=$_GET['company_id'];
+if(isset($id))
+    {
+      $access->deleting($pdo,$id,'companies','../admin/dash_board.php');
+    }

@@ -1,0 +1,53 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap'); */
+
+@font-face {
+  font-family: Montserrat;
+  src: url('../fonts/Montserrat-Regular.ttf');
+}
+
+body, html {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 14px;
+        color: blue;
+        background-color: #cyan;
+}
+
+
+.form-register{
+        padding: 0px auto;
+        margin: 0px auto;
+        float: center;
+        background-color: #fff !important;
+
+}
+.form-register .username{
+            padding: 0px auto;
+            font-size: 14px;
+
+          }
+
+.center button{
+        position: relative;
+        float: center;
+        background-color: red !important;
+        color: #fff;
+}
+.nin{
+  position: relative;
+    float: left;
+    background-color: red !important;
+    color: #fff;
+}
+.success{
+  color: #ffffff;
+  /* background-color: #fff !important; */
+}
+
+.form-login{
+  float: center;
+    background-color: #000000 !important;
+}
+.form-register{
+  float: center;
+    background-color: #fff !important;
+}

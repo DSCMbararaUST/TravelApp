@@ -1,0 +1,26 @@
+.colone {
+    position: absolute;
+    overflow-x: scroll;
+}
+
+.card{
+	margin-top: 4px;
+	background-color
+}
+body{
+	background-image: url("img/cloud.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+/*.nin{
+  position: relative;
+    float: left;
+    background-color: red !important;
+    color: #fff;
+}
+*/
+.sb{
+	/*background: #0085c3;*/
+	background: #C05640;
+}
